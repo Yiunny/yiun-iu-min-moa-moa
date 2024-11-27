@@ -2,7 +2,7 @@ img{
     width: 90%;
 }
 body {
-    background-image: url('Universe.jpg');
+    background-image: url('image/Universe.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
